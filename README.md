@@ -7,4 +7,4 @@
 
 👷🏻‍♀️ Let's build something awesome together! </pre> 
 
-### Connect with me on [LinkedIn](https://www.linkedin.com/in/alice-firminger-785b37267/) 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/alice-firminger-785b37267/) 

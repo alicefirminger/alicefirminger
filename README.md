@@ -1,5 +1,9 @@
-# 👋 Hi, I'm Alice!
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alicefirminger.alicefirminger)
+
+
+# 👋 Hi, I'm Alice!
+
+<br>
 
 <pre>👩🏻‍🏫 An aspiring software developer and former teacher who spent two years working in SE Asia. 🌏
 
@@ -9,7 +13,14 @@
 
 👷🏻‍♀️ Let's build something awesome together! </pre> 
 
-Follow my journey on [LinkedIn](https://www.linkedin.com/in/alice-firminger-785b37267/) 
+<br>
+
+### 👇 Follow my journey on:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alice-firminger-785b37267/)
+
+
+<br>
+
 
 ### My Stats
 

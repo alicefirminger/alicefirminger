@@ -1,4 +1,5 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alicefirminger.alicefirminger)
+![Alice Firminger](https://user-images.githubusercontent.com/106371000/236513679-0895a9b1-d88a-4429-af30-3bce0eb02c68.gif)
 
 
 # 👋 Hi, I'm Alice!
@@ -27,7 +28,6 @@
 <table>
  <tr>
 <td align=top><img src = "https://github-readme-stats.vercel.app/api/?username=alicefirminger&count_private=true&theme=tokyonight&showicons=true"></td>
-<td align=top><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=alicefirminger&langs_count=5&theme=tokyonight"></td>
- <td align=top><img src ="https://www.codewars.com/users/alicefirminger/badges/large"></td>
+<td align=top><img src ="https://www.codewars.com/users/alicefirminger/badges/large"></td>
 </tr>
 </table>

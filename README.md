@@ -1,6 +1,5 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alicefirminger.alicefirminger)
-![Alice Firminger](https://user-images.githubusercontent.com/106371000/236513679-0895a9b1-d88a-4429-af30-3bce0eb02c68.gif)
-
+![Alice Firminger](https://github.com/alicefirminger/alicefirminger/assets/106371000/8bbea6bd-92ce-4aa2-b9b4-4408fa8c3890)
 
 # 👋 Hi, I'm Alice!
 
@@ -8,13 +7,15 @@
 
 👩🏻‍🏫 An aspiring software developer and former teacher who spent some years working in SE Asia. 🌏
 
-🎓 I am currently embarking on a new challenge as a student at School of Code, learning full-stack development.
+🎓 I recently graduated from School of Code, learning full-stack development.
 
-🪄 Coding has helped me rediscover a passion for creating something that is useful to others, out of nothing!  
+🪄 Coding has helped me rediscover a passion for creating something that is useful to others, with others!  
 
 👷🏻‍♀️ Let's build something awesome together! 
 
 <br>
+
+👀 Check out some of my pinned projects below or visit my website!
 
 ## 👇 Follow my journey on:
 <br>
@@ -23,7 +24,7 @@
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-## 👇 See my website below:
+## 👇 See my website:
 <a href="https://alicefirminger.netlify.app/">📲 💻 🖥️</a>
 <br>
 <br>

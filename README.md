@@ -17,6 +17,8 @@
 
 👀 Check out some of my pinned projects below or visit my website!
 
+<br>
+
 ## 👇 Follow my journey on:
 <br>
 

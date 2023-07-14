@@ -5,7 +5,7 @@
 
 <br>
 
-👩🏻‍🏫 An aspiring software developer and former teacher who spent some years working in SE Asia. 🌏
+👩🏻‍🏫 A Junior Software Developer and former teacher who spent some time working in SE Asia. 🌏
 
 🎓 I recently graduated from School of Code, learning full-stack development.
 

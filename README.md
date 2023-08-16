@@ -40,8 +40,8 @@
 
 <table>
  <tr>
-<td align=top><img src = "https://github-readme-stats.vercel.app/api/?username=alicefirminger&count_private=true&theme=dark&showicons=true"></td>
-  <td align=top><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=alicefirminger&layout=compact&theme=dark"></td>
+<td align=top><img src = "https://github-readme-stats.vercel.app/api/?username=alicefirminger&count_private=true&theme=dracula&showicons=true"></td>
+  <td align=top><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=alicefirminger&layout=compact&theme=dracula"></td>
 <td align=top><img src ="https://www.codewars.com/users/alicefirminger/badges/large"></td>
 </tr>
 </table>

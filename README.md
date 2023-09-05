@@ -31,8 +31,9 @@
 
 ## 👇 See my website:
 
-
-<a href="https://alicefirminger.netlify.app/"><img width="1466" alt="url" src="https://github.com/alicefirminger/alicefirminger/assets/106371000/eb4fe8dc-3e49-47e2-9096-8f50b8c0053b"></a>
+<a href="https://alicefirminger.netlify.app/">
+  <img width="1466" alt="url" src="https://alicefirminger.netlify.app/images/url.png" />
+</a>
 <br>
 <br>
 

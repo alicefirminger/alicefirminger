@@ -5,9 +5,11 @@
 
 <br>
 
-👩🏻‍🏫 A Junior Software Developer and former teacher who spent some time working in SE Asia. 🌏
+👩🏻‍🏫 An Associate Software Engineer and former teacher who spent some time working in SE Asia. 🌏
 
-🎓 I recently graduated from School of Code, learning full-stack development.
+🎓 I recently graduated from School of Code, learning full-stack development 
+
+💻 and I am now in my first role as an Associate Engineer!
 
 🪄 Coding has helped me rediscover a passion for creating something that is useful to others, with others!  
 

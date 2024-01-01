@@ -1,5 +1,6 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alicefirminger.alicefirminger)
-![Alice Firminger](https://github.com/alicefirminger/alicefirminger/assets/106371000/8bbea6bd-92ce-4aa2-b9b4-4408fa8c3890)
+![Alice Firminger](https://github.com/alicefirminger/alicefirminger/assets/106371000/c4ca62ea-1dee-4ecb-87be-7095c8aa6243)
+
 
 # 👋 Hi, I'm Alice!
 

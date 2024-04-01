@@ -35,7 +35,8 @@
 ## 👇 See my website:
 
 <a href="https://alicefirminger.netlify.app/">
-  <img width="1466" alt="url" src="https://alicefirminger.netlify.app/images/url.png" />
+ <img width="1297" alt="Screenshot 2024-04-01 at 16 02 03" src="https://github.com/alicefirminger/alicefirminger/assets/106371000/45d772d9-c195-4715-816f-e622015da18d">
+
 </a>
 <br>
 <br>

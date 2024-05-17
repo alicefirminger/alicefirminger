@@ -10,7 +10,7 @@
 
 🎓 I recently graduated from School of Code, learning full-stack development 
 
-💻 and I am now in my first role as an Associate Engineer!
+💻 and I am now in my first role as an Associate Engineer at The LEGO Group!
 
 🪄 Coding has helped me rediscover a passion for creating something that is useful to others, with others!  
 

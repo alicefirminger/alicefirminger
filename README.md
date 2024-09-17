@@ -6,11 +6,11 @@
 
 <br>
 
-👩🏻‍🏫 An Associate Software Engineer and former teacher who spent some time working in SE Asia. 🌏
+👩🏻‍🏫 A Software Engineer and former teacher who spent some time working in SE Asia. 🌏
 
 🎓 School of Code Graduate 2023 
 
-💻 I am now an Associate Engineer at The LEGO Group!
+💻 I am currently an Associate Engineer at The LEGO Group!
 
 🪄 Coding has helped me rediscover a passion for creating something that is useful to others, with others!  
 
